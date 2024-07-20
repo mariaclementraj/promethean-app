@@ -1,0 +1,42 @@
+
+@font-face {
+    font-family: Inter;
+    src: url(../font/Inter-Regular.ttf);
+}
+*{
+    background-color: #161618;
+    font-family: Inter;
+}
+
+.contact{
+    padding: 64px 12px 64px 12px;
+}
+h1{
+    font-size: 64px !important;
+    font-weight: 700 !important;
+    color: #ffffff !important;
+}
+p{
+    font-size: 32px !important;
+    font-weight: 500!important;
+    color: #ffffff !important;
+}
+.input {
+    
+    border-radius: 50px !important;
+}
+.input-type{
+    color: #ffffff !important;
+     
+}
+.input-textarea{
+    border-radius: 20px !important;
+}
+
+.center-checkbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+    
