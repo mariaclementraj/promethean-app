@@ -8,7 +8,6 @@ import Contact from './router/contact';
 
 function App() {
   return (
-
   <Router>
     <main>
       <Routes>
