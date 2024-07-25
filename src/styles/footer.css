@@ -1,0 +1,67 @@
+*{
+    background-color: #1f1f21;
+}
+.footer {
+    color: #ffffff;
+    margin-bottom: 30px !important;
+    
+  }
+
+  .footer h5 {
+    color: #ffffff;
+    font-size: 15px !important;
+    margin-bottom: 25px;
+    font-weight: 600 !important;
+  }
+  .footer ul {
+    padding: 0;
+  }
+  .footer ul li {
+    list-style: none;
+    margin-bottom: 15px;
+    font-size: 14px !important;
+  }
+  .footer a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  .footer a:hover {
+    text-decoration: underline;
+  }
+  .footer .list-inline-item {
+    margin-right: 15px;
+  }
+  .footer .list-inline-item a {
+    color: #ffffff;
+  }
+  h6{
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+    font-weight: 300 !important;
+    font-size: 15px !important;
+  }
+  .custom-input {
+    font-size: 14px !important;
+    border-radius: 50px !important;
+    color: #8b8b8b !important;
+    position: relative !important;
+    height: 50px !important;
+  }
+  
+  .custom-button {
+    background-color: #FFC100 !important;
+    font-size: 14px !important;
+    height: 40px !important;
+    color: #ffffff !important;
+    border-radius: 50px !important; /* Adjust border radius as needed */
+  }
+
+  .input-group-custom {
+    display: flex !important;
+    align-items: center !important;
+  }
+  
+  .input-group-custom .custom-button {
+    margin-left: -110px !important; /* Adjust this to remove the gap between input and button */
+  }
+  

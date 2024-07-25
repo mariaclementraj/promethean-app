@@ -5,6 +5,7 @@ import Services from './router/services';
 import Careers from './router/careers';
 import About from './router/about';
 import Contact from './router/contact';
+import Footer from './router/footer';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Route path="/careers" element={<Careers />} />
         <Route path="/about" element={<About />} />
         <Route path="/contact" element={<Contact />} />
+        <Route path="/footer" element={<Footer />} />
       </Routes>
     </main>
   </Router>
